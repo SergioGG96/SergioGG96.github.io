@@ -1,4 +1,4 @@
-title:              Sergio
+title:              SergioGG!
 email:              sergiogogue96@gmail.com
 description:        My Portfolio
 author:             Sergio González Guerra
@@ -7,10 +7,10 @@ url:                "https://sergiogg96.github.io/"
 
 # Social Profiles
 twitter_username:   
-github_username:    
+github_username:  SergioGG96
 facebook_username:  
 instagram_username:  
-linkedin_username:
+linkedin_username: sergio-gonzález-guerra-b21570235
 
 # Add your google-analytics ID here to activate google analytics
 google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
@@ -23,3 +23,7 @@ plugins:
   - jekyll-feed
   - jekyll-paginate
   - jekyll-sitemap ## Uncomment this line to silently generate a sitemaps.org compliant sitemap for your Jekyll site
+
+collections:
+  portfolio:
+    output: true

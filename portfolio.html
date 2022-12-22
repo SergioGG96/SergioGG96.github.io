@@ -1,0 +1,30 @@
+---
+layout: page
+title: Portfolio
+background: '/img/bg-post.jpg'
+---
+
+<link href="https://fonts.cdnfonts.com/css/aux-dotbitc?styles=9328,9331" rel="stylesheet">
+
+{% for item in site.portfolio %}
+<article class="post-preview">
+  <a href="{{ item.url | prepend: site.baseurl | replace: '//', '/' }}">
+    <h2 class="post-title">{{ item.title }}</h2>
+    {% if item.subtitle %}
+    <h3 class="post-subtitle">{{ item.subtitle }}</h3>
+    {% else %}
+    <h3 class="post-subtitle">{{ item.excerpt | strip_html | truncatewords: 15 }}</h3>
+    {% endif %}
+  </a>
+  <p class="post-meta">Posted by
+    {% if item.author %}
+    {{ item.author }}
+    {% else %}
+    {{ site.author }}
+    {% endif %}
+    on {{ item.date | date: '%B %d, %Y' }} &middot; {% include read_time.html content=item.content %}
+  </p>
+</article>
+
+<hr>
+{% endfor %}
