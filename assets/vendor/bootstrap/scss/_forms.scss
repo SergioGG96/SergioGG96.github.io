@@ -13,8 +13,8 @@
   @include font-size($input-font-size);
   font-weight: $input-font-weight;
   line-height: $input-line-height;
-  color: $input-color;
-  background-color: $input-bg;
+  color: $primary;
+  background-color: $primary;
   background-clip: padding-box;
   border: $input-border-width solid $input-border-color;
 
@@ -53,7 +53,7 @@
   // don't honor that edge case; we style them as disabled anyway.
   &:disabled,
   &[readonly] {
-    background-color: $input-disabled-bg;
+    background-color: $primary;
     // iOS fix for unreadable disabled content; see https://github.com/twbs/bootstrap/issues/11655.
     opacity: 1;
   }
@@ -76,7 +76,7 @@ select.form-control {
     // match the appearance of the native widget.
     // See https://github.com/twbs/bootstrap/issues/19398.
     color: $input-color;
-    background-color: $input-bg;
+    background-color: $primary;
   }
 }
 

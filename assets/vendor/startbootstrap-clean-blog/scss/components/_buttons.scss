@@ -5,13 +5,17 @@
     padding: 15px 25px;
     letter-spacing: 1px;
     text-transform: uppercase;
-    border-radius: 0;
+    border-radius: 1;
     font-family: $headings-font-family;
+    -webkit-border-radius: 1;
+    -moz-border-radius: 1;
+    -ms-border-radius: 1;
+    -o-border-radius: 1;
 }
 
 .btn-primary {
     background-color: $primary;
-    border-color: $primary;
+    border-color: $secondary;
 
     &:hover,
     &:focus,

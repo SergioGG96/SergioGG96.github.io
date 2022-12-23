@@ -1,5 +1,24 @@
 // Custom color variables
 
-$teal: #0085A1;
+// Tema 1 Pink.
+$blue: #3A4F7A;  // 1º
+$pink1: #FFC6D3; // 4º
+$pink2: #FEA1BF; // 3º
+$pink3: #E98EAD; // 2º
 
-$primary: $teal;
+// Tema 2 Navy.
+$navyBG: #2B3A55;
+$navy1:  #F2E5E5;
+$navy2:  #E8C4C4;
+$navy3:  #CE7777;
+
+// Tema 3 Space
+$spaceBG: #453C67;
+$space1: #f3f7a1;
+$space2: #46C2CB;
+$space3: #b2afea;
+
+$primary: $space3; //3º
+$secondary: $space2; //2º
+$bright: $space1; //1º
+$background: $spaceBG; //BGº

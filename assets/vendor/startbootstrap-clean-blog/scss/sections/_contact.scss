@@ -4,7 +4,7 @@
     position: relative;
     margin-bottom: 0;
     padding-bottom: 0.5em;
-    border-bottom: 1px solid $gray-300;
+    border-bottom: 2px solid $secondary;
 
     input,
     textarea {
@@ -19,7 +19,7 @@
         box-shadow: none !important;
 
         &::-webkit-input-placeholder {
-            color: $gray-600;
+            color: $bright;
         }
     }
 
