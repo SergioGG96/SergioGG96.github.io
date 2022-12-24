@@ -43,7 +43,7 @@ Obviously not all the work is done with this algorithm there are many elements t
 
 [Minecraft](https://www.minecraft.net/es-es) for example generates rivers, caves and mountains from blocks, but these always follow a repeating pattern that creates almost an infinite world.
 
-<img src="/img/posts/Procedurally-Generated-Content-img/Minecraft.jpg" alt="img" class="responsive" width="800" height="600"/>
+<img src="/img/posts/Procedurally-Generated-Content-img/Minecraft.JPG" alt="img" class="responsive" width="800" height="600"/>
 <center>World of Minecraft</center>
 
 Source: [xataka](https://www.xataka.com.mx/videojuegos/generacion-procedural-videojuegos-cuando-matematicas-facilitan-trabajo-creativo)
