@@ -28,9 +28,23 @@ ___
 
 ## The problematic of using Procedurally Generated Content
 
+Since now the algorithm makes the maps for us, we will lose control of them. We will no longer get unique maps.
 
+It is also common to find errors in the generation of maps or other objects using procedural generation. Such is the case of No man's sky which at launch contained many map generation bugs and some creature generation did not make sense.
 
+<img src="/img/posts/Procedurally-Generated-Content-img/noMan'sSky2.png" alt="img" class="responsive" width="800" height="600"/>
+<center>No man's sky, creature generation no making sense</center>
 
+___
+
+## What things procedural generation does not add
+
+Obviously not all the work is done with this algorithm there are many elements to be created individually such as vegetation, monsters or buildings. Sometimes map patterns are created and then randomly repeated.
+
+[Minecraft](https://www.minecraft.net/es-es) for example generates rivers, caves and mountains from blocks, but these always follow a repeating pattern that creates almost an infinite world.
+
+<img src="/img/posts/Procedurally-Generated-Content-img/Minecraft.jpg" alt="img" class="responsive" width="800" height="600"/>
+<center>World of Minecraft</center>
 
 Source: [xataka](https://www.xataka.com.mx/videojuegos/generacion-procedural-videojuegos-cuando-matematicas-facilitan-trabajo-creativo)
 
