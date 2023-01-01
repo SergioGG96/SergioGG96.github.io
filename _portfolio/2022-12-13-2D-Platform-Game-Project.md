@@ -4,7 +4,7 @@ title: "2D Platform Game Project"
 subtitle: "My 2D Platform Game Project"
 date: 2022-12-13 11:05:00 -0400
 background: '/img/portfolio/2DGamePlattformProject/2D-Game-Platform-Project.JPG'
-icon: '/gif/Polar-project-gifs/Penguin_Hammer.gif'
+icon: '/gif/2D-Platform-Game/RobotPlayer.gif'
 ---
 
 # 2D Platform Game Project
@@ -13,3 +13,5 @@ icon: '/gif/Polar-project-gifs/Penguin_Hammer.gif'
 
 <img src="/img/portfolio/2DGamePlattformProject/2DPlatformProject.gif" alt="img" class="responsive" width="800" height="600"/>
 <center>Example gameplay gif</center>
+
+<img src="/gif/2D-Platform-Game/RobotPlayer.gif" alt="img" class="responsive" width="192" height="192"/>
