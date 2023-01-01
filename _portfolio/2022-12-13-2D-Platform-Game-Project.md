@@ -4,6 +4,7 @@ title: "2D Platform Game Project"
 subtitle: "My 2D Platform Game Project"
 date: 2022-12-13 11:05:00 -0400
 background: '/img/portfolio/2DGamePlattformProject/2D-Game-Platform-Project.JPG'
+icon: '/gif/Polar-project-gifs/Penguin_Hammer.gif'
 ---
 
 # 2D Platform Game Project

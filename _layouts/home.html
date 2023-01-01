@@ -2,6 +2,11 @@
 layout: default
 ---
 
+<style>
+  h1 {text-align: center;
+      font-size: 2.5em;}
+</style>
+
 <!-- Page Header -->
 {% if page.background %}
 <header class="masthead" style="background-image: url('{{ page.background | prepend: site.baseurl | replace: '//', '/' }}')">
@@ -29,6 +34,8 @@ layout: default
 
         {{ content }}
 
+        <br>
+        <h1>Portfolio</h1>
         <!-- Home Portfolio List -->
         {% for portfolio in site.portfolio limit : 5 %}
 
@@ -40,14 +47,11 @@ layout: default
             {% else %}
             <h3 class="post-subtitle">{{ portfolio.excerpt | strip_html | truncatewords: 15 }}</h3>
             {% endif %}
-          </a>
-          <p class="post-meta">Posted by
-            {% if portfolio.author %}
-            {{ portfolio.author }}
-            {% else %}
-            {{ site.author }}
+            {% if portfolio.icon %}
+            <img class="post-icon" src="{{ portfolio.icon | prepend: site.baseurl | replace: '//', '/' }}" alt="img">
             {% endif %}
-            on
+          </a>
+          <p class="post-meta">
             {{ portfolio.date | date: '%B %d, %Y' }} &middot; {% include read_time.html content=portfolio.content %}            
           </p>
         </article>
@@ -61,6 +65,9 @@ layout: default
           <a class="btn btn-primary float-right" href="{{"/portfolio" | relative_url }}">View All My Portfolio &rarr;</a>
         </div>
 
+        <br>
+        <br>
+        <h1>Posts</h1>
         <!-- Home Post List -->
         {% for post in site.posts limit : 5 %}
 
@@ -73,13 +80,7 @@ layout: default
             <h3 class="post-subtitle">{{ post.excerpt | strip_html | truncatewords: 15 }}</h3>
             {% endif %}
           </a>
-          <p class="post-meta">Posted by
-            {% if post.author %}
-            {{ post.author }}
-            {% else %}
-            {{ site.author }}
-            {% endif %}
-            on
+          <p class="post-meta">
             {{ post.date | date: '%B %d, %Y' }} &middot; {% include read_time.html content=post.content %}            
           </p>
         </article>

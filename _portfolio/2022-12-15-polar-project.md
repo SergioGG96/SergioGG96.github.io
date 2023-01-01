@@ -1,11 +1,18 @@
 ---
 layout: post
 title: "Polar Project"
-description: "My tactical RPG videogame project."
-date: 2022-12-15 11:05:00 -0400
+subtitle: "My tactical RPG videogame project."
+date: 2023-01-1 11:05:00 -0400
 background: '/img/portfolio/polarProject.jpg'
+icon: '/gif/Polar-project-gifs/Penguin_Hammer.gif'
 ---
 
-# Polar Project
+# What is Polar Project
 
-Sample Polar Project post.
+Polar Project is a prototype of a turn-based RPG strategy video game. Made with my own pixelart sprites and using Unity.
+
+The characters of this video game consist of some penguins that are being attacked by a group of snowmen. The player will control them in order to clear the level.
+
+[//]: <> (![gif](/gif/Polar-project-gifs/Penguin_Hammer.gif))
+
+<img src="/gif/Polar-project-gifs/Penguin_Hammer.gif" alt="img" class="responsive" width="128" height="128"/>

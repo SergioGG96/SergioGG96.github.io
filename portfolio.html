@@ -15,14 +15,11 @@ background: '/img/bg-portfolio.jpg'
     {% else %}
     <h3 class="post-subtitle">{{ item.excerpt | strip_html | truncatewords: 15 }}</h3>
     {% endif %}
-  </a>
-  <p class="post-meta">Posted by
-    {% if item.author %}
-    {{ item.author }}
-    {% else %}
-    {{ site.author }}
+    {% if item.icon %}
+    <img class="post-icon" src="{{ item.icon | prepend: site.baseurl | replace: '//', '/' }}" alt="img">
     {% endif %}
-    on {{ item.date | date: '%B %d, %Y' }} &middot; {% include read_time.html content=item.content %}
+  </a>
+  <p class="post-meta">{{ item.date | date: '%B %d, %Y' }} &middot; {% include read_time.html content=item.content %}
   </p>
 </article>
 
