@@ -48,7 +48,7 @@ layout: default
             <h3 class="post-subtitle">{{ portfolio.excerpt | strip_html | truncatewords: 15 }}</h3>
             {% endif %}
             {% if portfolio.icon %}
-            <img class="post-icon" src="{{ portfolio.icon | prepend: site.baseurl | replace: '//', '/' }}" alt="img">
+            <img class="post-icon"  src="{{ portfolio.icon | prepend: site.baseurl | replace: '//', '/' }}" alt="img">
             {% endif %}
           </a>
           <p class="post-meta">

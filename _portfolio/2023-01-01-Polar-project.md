@@ -21,7 +21,7 @@ ___
 
 # How to play
 
-The player will control the penguins on a grid based map, each penguin has the possibility to move and attack once per turn. When we dont have more turns, when we have no moves left, we end the turn and the enemy will start to play.
+The player will control the penguins on a grid based map, each penguin has the possibility to move and attack once per turn. When we dont have more moves left, we end the turn and the enemy will start to play.
 
 If we defeat all the enemies we will complete the level, if we lose our penguins, we lose the game.
 
