@@ -7,9 +7,9 @@ background: '/img/portfolio/2DGamePlattformProject/2D-Game-Platform-Project.JPG'
 icon: '/gif/2D-Platform-Game/RobotPlayer.gif'
 ---
 
-# 2D Platform Game Project
+# What is 2D platform game project
 
-2D Platform Game Project
+This is a game based on ...
 
 <img src="/img/portfolio/2DGamePlattformProject/2DPlatformProject.gif" alt="img" class="responsive" width="800" height="600"/>
 <center>Example gameplay gif</center>
