@@ -46,5 +46,6 @@ Obviously not all the work is done with this algorithm there are many elements t
 <img src="/img/posts/Procedurally-Generated-Content-img/Minecraft.JPG" alt="img" class="responsive" width="800" height="600"/>
 <center>World of Minecraft</center>
 
+
 Source: [xataka](https://www.xataka.com.mx/videojuegos/generacion-procedural-videojuegos-cuando-matematicas-facilitan-trabajo-creativo)
 
