@@ -113,9 +113,9 @@ He is in charge of the effects, dialogues and music, but he does not compose it.
 It can be an external element to the studio, it composes the music adapting it to the vision of the game.
 There are 3 types:
 
-- Music composers: Create different songs that we hear during the gameplay
-- Sound effect composers: Create impact sounds, footsteps and environmental noises as we play the game.
-- Voice supervisors: Manage sessions with voice actors for later processing to the game.
+- **Music composers:** Create different songs that we hear during the gameplay
+- **Sound effect composers:** Create impact sounds, footsteps and environmental noises as we play the game.
+- **Voice supervisors:** Manage sessions with voice actors for later processing to the game.
 
 ___
 
@@ -137,6 +137,7 @@ They play many hours focusing on finding bugs in the game. They write a report o
 
 They also play the game for many hours and indicate which problems or areas of the game need to be reviewed. Then the planning team collects their feedback for review.
 They need to be good players in order to understand the mechanics.
+
 ___
 
 # Other Roles
