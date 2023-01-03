@@ -37,4 +37,4 @@ ___
 
 And of course, I also love being a gamer, and play all kinds of video games.
 
-<img src="/gif/Polar-project-gifs/polarProjectGroup.gif" alt="img" class="responsive" width="640" height="192"/>
+<img src="/gif/Polar-project-gifs/Penguin_Hammer.gif" alt="img" class="responsive-gif" width="128" height="128"/>
