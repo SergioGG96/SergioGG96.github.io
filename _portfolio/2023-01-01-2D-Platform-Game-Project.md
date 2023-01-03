@@ -11,11 +11,11 @@ icon: '/gif/2D-Platform-Game/RobotPlayer.gif'
 
 It is an action, RPG and platform game based on the [Megaman](https://es.wikipedia.org/wiki/Mega_Man) series. We play as a robot trying to escape from a factory and travel through space.
 
-<img src="/gif/2D-Platform-Game/RobotPlayer.gif" alt="img" class="responsive" width="192" height="192"/>
+<img src="/gif/2D-Platform-Game/RobotPlayer.gif" alt="img" class="responsive-gif" width="192" height="192"/>
 
 ___
 
-<img src="/img/portfolio/2DGamePlattformProject/2DPlatformProject.gif" alt="img" class="responsive" width="800" height="600"/>
+<img src="/img/portfolio/2DGamePlattformProject/2DPlatformProject.gif" alt="img" class="responsive-img" width="800" height="600"/>
 <center>Example gameplay gif</center>
 
 ___

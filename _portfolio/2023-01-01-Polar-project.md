@@ -15,7 +15,7 @@ The characters of this video game consist of some penguins that are being attack
 
 [//]: <> (![gif](/gif/Polar-project-gifs/Penguin_Hammer.gif))
 
-<img src="/gif/Polar-project-gifs/polarProjectGroup.gif" alt="img" class="responsive" width="640" height="192"/>
+<img src="/gif/Polar-project-gifs/polarProjectGroup.gif" alt="img" class="responsive-gif" width="640" height="192"/>
 
 ___
 
@@ -25,7 +25,7 @@ The player will control the penguins on a grid based map, each penguin has the p
 
 If we defeat all the enemies we will complete the level, if we lose our penguins, we lose the game.
 
-<img src="/gif/Polar-project-gifs/polar-gameplay-example.gif" alt="img" class="responsive" width="800" height="600"/>
+<img src="/gif/Polar-project-gifs/polar-gameplay-example.gif" alt="img" class="responsive-img" width="800" height="600"/>
 <center>Example gameplay gif</center>
 
 ___
@@ -38,13 +38,13 @@ For this prototype there are two types of Penguin units.
 
 A penguin with more life and defense than usual, but with less movement and melee range.
 
-<img src="/gif/Polar-project-gifs/Penguin_Hammer.gif" alt="img" class="responsive" width="128" height="128"/>
+<img src="/gif/Polar-project-gifs/Penguin_Hammer.gif" alt="img" class="responsive-gif" width="128" height="128"/>
 
 ### Archer Penguin:
 
 A penguin with more movement and attack range, but with less life and defense.
 
-<img src="/gif/Polar-project-gifs/Penguin_Archer.gif" alt="img" class="responsive" width="132" height="132"/>
+<img src="/gif/Polar-project-gifs/Penguin_Archer.gif" alt="img" class="responsive-gif" width="132" height="132"/>
 
 ___
 
@@ -56,13 +56,13 @@ There are also 2 types of snowmen in this prototype.
 
 The red snowman will always try to attack the nearest penguin. It usually has not very high stats.
 
-<img src="/gif/Polar-project-gifs/Red_Snowman.gif" alt="img" class="responsive" width="128" height="192"/>
+<img src="/gif/Polar-project-gifs/Red_Snowman.gif" alt="img" class="responsive-gif" width="128" height="192"/>
 
 ### Blue Snowman:
 
 The blue snowman will always try to attack the penguin with the least life. It usually has high stats.
 
-<img src="/gif/Polar-project-gifs/Blue_Snowman.gif" alt="img" class="responsive" width="128" height="192"/>
+<img src="/gif/Polar-project-gifs/Blue_Snowman.gif" alt="img" class="responsive-gif" width="128" height="192"/>
 
 
 # Project status

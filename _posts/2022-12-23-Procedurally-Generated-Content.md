@@ -4,6 +4,7 @@ title: "Procedurally Generated Content"
 subtitle: "What is procedural generation."
 date: 2022-12-23 18:00:00 -0400
 background: '/img/posts/Procedurally-Generated-Content-img/Procedurally-Generated-Content.jfif'
+icon: '/img/posts/Procedurally-Generated-Content-img/noMansSky1.jpg'
 ---
 
 # Procedurally Generated Content
@@ -21,7 +22,7 @@ Thanks to this, [No man's sky](https://www.nomanssky.com/?cli_action=1671837129.
 
 That amount would be impossible to reach, but [Hello Games](https://hellogames.org/) managed to create it in only 3 years thanks to this type of algorithms.
 
-<img src="/img/posts/Procedurally-Generated-Content-img/noMan'sSky1.jpg" alt="img" class="responsive" width="800" height="600"/>
+<img src="/img/posts/Procedurally-Generated-Content-img/noMansSky1.jpg" alt="img" class="responsive-img" width="800" height="600"/>
 <center>No man's sky</center>
 
 ___
@@ -32,7 +33,7 @@ Since now the algorithm makes the maps for us, we will lose control of them. We 
 
 It is also common to find errors in the generation of maps or other objects using procedural generation. Such is the case of No man's sky which at launch contained many map generation bugs and some creature generation did not make sense.
 
-<img src="/img/posts/Procedurally-Generated-Content-img/noMan'sSky2.png" alt="img" class="responsive" width="800" height="600"/>
+<img src="/img/posts/Procedurally-Generated-Content-img/noMansSky2.png" alt="img" class="responsive-img" width="800" height="600"/>
 <center>No man's sky, creature generation no making sense</center>
 
 ___
@@ -43,7 +44,7 @@ Obviously not all the work is done with this algorithm there are many elements t
 
 [Minecraft](https://www.minecraft.net/es-es) for example generates rivers, caves and mountains from blocks, but these always follow a repeating pattern that creates almost an infinite world.
 
-<img src="/img/posts/Procedurally-Generated-Content-img/Minecraft.JPG" alt="img" class="responsive" width="800" height="600"/>
+<img src="/img/posts/Procedurally-Generated-Content-img/Minecraft.JPG" alt="img" class="responsive-img" width="800" height="600"/>
 <center>World of Minecraft</center>
 
 

@@ -4,13 +4,14 @@ title: "Roles in Game Development"
 subtitle: "Types of roles we can find."
 date: 2023-01-02 00:45:00 -0400
 background: '/img/posts/Roles-in-Video-Game-Development/Game-Dev-Story.jpg'
+icon: '/img/posts/Roles-in-Video-Game-Development/gameDevTeam.JPG'
 ---
 
 # What types of jobs can we find in video game development?
 
 The roles we can find are very diverse depending on the genre and the content of the video game we are playing. For example, games like [Super Mario Bros](https://es.wikipedia.org/wiki/Super_Mario_Bros.), don't have a very complex story, they just use it as an excuse to play the game directly. So the role of writer does not exist here.
 
-<img src="/img/posts/Roles-in-Video-Game-Development/thankyou.png" alt="img" class="responsive" width="500" height="400"/>
+<img src="/img/posts/Roles-in-Video-Game-Development/thankyou.png" alt="img" class="responsive-img" width="500" height="400"/>
 
 We can find works from the artistic section to other more technical ones such as programming.
 So I will mention the ones that seem most important to me.
@@ -21,7 +22,7 @@ ___
 
 I want to start with this role since it is the root of the whole project, where ideas arise and are tried to be implemented. This is an an important role as they have the responsibility to create an immersive experience.
 
-<img src="/img/posts/Roles-in-Video-Game-Development/gameDevDirector.JPG" alt="img" class="responsive" width="600" height="500"/>
+<img src="/img/posts/Roles-in-Video-Game-Development/gameDevDirector.JPG" alt="img" class="responsive-img" width="600" height="500"/>
 
 ## Director
 
@@ -51,7 +52,7 @@ ___
 
 Computers are usually very uncooperative, so this job requires patience and flexibility to get a clean code. They are in charge of finalizing all the assets of the rest of the team members.
 
-<img src="/img/posts/Roles-in-Video-Game-Development/gameDevProgrammer.JPG" alt="img" class="responsive" width="600" height="500"/>
+<img src="/img/posts/Roles-in-Video-Game-Development/gameDevProgrammer.JPG" alt="img" class="responsive-img" width="600" height="500"/>
 
 ## Technical director
 
@@ -79,7 +80,7 @@ It is important that the whole team shares the same vision of the game and that 
 
 Sometimes they are even required to know some technical aspects about engines such as Unreal or Unity.
 
-<img src="/img/posts/Roles-in-Video-Game-Development/gameDevArtist.JPG" alt="img" class="responsive" width="600" height="500"/>
+<img src="/img/posts/Roles-in-Video-Game-Development/gameDevArtist.JPG" alt="img" class="responsive-img" width="600" height="500"/>
 
 ## Art Director
 
@@ -102,7 +103,7 @@ ___
 
 Music is a very important feature in video games, so in this role they are in charge of creating not only the soundtrack but also the sound effects and voices of the characters.
 
-<img src="/img/posts/Roles-in-Video-Game-Development/gameDevSound.JPG" alt="img" class="responsive" width="600" height="500"/>
+<img src="/img/posts/Roles-in-Video-Game-Development/gameDevSound.JPG" alt="img" class="responsive-img" width="600" height="500"/>
 
 ## Sound designer
 
@@ -123,7 +124,7 @@ ___
 
 Testing is part of the end of development and is of vital importance. A good testing team is a guarantee that the game arrives in a stable and polished form.
 
-<img src="/img/posts/Roles-in-Video-Game-Development/gameDevTester.JPG" alt="img" class="responsive" width="600" height="500"/>
+<img src="/img/posts/Roles-in-Video-Game-Development/gameDevTester.JPG" alt="img" class="responsive-img" width="600" height="500"/>
 
 ## Lead QA
 
@@ -144,7 +145,7 @@ ___
 
 Other roles on game Development.
 
-<img src="/img/posts/Roles-in-Video-Game-Development/gameDevTechnicalSupport.JPG" alt="img" class="responsive" width="600" height="500"/>
+<img src="/img/posts/Roles-in-Video-Game-Development/gameDevTechnicalSupport.JPG" alt="img" class="responsive-img" width="600" height="500"/>
 
 ## Technical support
 
@@ -170,6 +171,6 @@ Many of these roles come together to produce a single game element. For example 
 
 All these roles work together and it is necessary to understand each other in order to make progress with the proposed objectives and move forward.
 
-<img src="/img/posts/Roles-in-Video-Game-Development/gameDevTeam.JPG" alt="img" class="responsive" width="600" height="500"/>
+<img src="/img/posts/Roles-in-Video-Game-Development/gameDevTeam.JPG" alt="img" class="responsive-img" width="600" height="500"/>
 
 Source: [Masahiro Sakurai on Creating Games](https://youtu.be/Hk2npGxEQRo), [wikipedia](https://en.wikipedia.org/wiki/Video_game_development), [Title picture from Game Dev Story](https://play.google.com/store/apps/details?id=net.kairosoft.android.gamedev3en&hl=es&gl=US&pli=1).
