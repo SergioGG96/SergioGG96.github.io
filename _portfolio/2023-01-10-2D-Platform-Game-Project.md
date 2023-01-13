@@ -9,7 +9,7 @@ icon: '/gif/2D-Platform-Game/RobotPlayer.gif'
 
 # About the game
 
-It is an action and platform game based on the [Megaman](https://es.wikipedia.org/wiki/Mega_Man) series. We play as a robot trying to escape from a factory and travel through space in a scenery with different platforms and enemies to defeat.
+It's an action and platform game based on the [Megaman](https://es.wikipedia.org/wiki/Mega_Man) series. We play as a robot trying to escape from a factory and travel through space in a stage surrounded with different platforms and enemies to defeat.
 
 <img src="/gif/2D-Platform-Game/RobotPlayer.gif" alt="img" class="responsive-gif" width="192" height="192"/>
 
@@ -19,7 +19,8 @@ ___
 
 - Use the A and D keys to move around the stage.
 - Use left mouse button to shoot.
-- Use the space bar to jump
+- Use the space bar to jump.
+- Use the W key to use the Door and teleport to another location.
 - And some events can be triggered using the E key.
 
 ___
@@ -102,7 +103,13 @@ To avoid slowing down the game, a pooling technique has been implemented for the
 
 <img src="/gif/2D-Platform-Game/projectilePooling.gif" alt="img" class="responsive-img" width="600" height="400"/>
 
-# Video explaining how I made the game
+___
+
+# Gameplay Video
+
+<div class="video-responsive">
+    <iframe src="https://www.youtube.com/embed/UhSLsByS55E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
 
 
