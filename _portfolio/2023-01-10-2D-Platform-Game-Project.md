@@ -103,13 +103,10 @@ To avoid slowing down the game, a pooling technique has been implemented for the
 
 <img src="/gif/2D-Platform-Game/projectilePooling.gif" alt="img" class="responsive-img" width="600" height="400"/>
 
+
 ___
 
-# Gameplay Video
+# Try it out on Itch.io
 
-<div class="video-responsive">
-    <iframe src="https://www.youtube.com/embed/UhSLsByS55E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div>
-
-
+<iframe frameborder="0" src="https://itch.io/embed/1951219?border_width=3&amp;bg_color=afbfff&amp;fg_color=880e4f&amp;link_color=f4511e&amp;border_color=6a1b9a" width="556" height="171"><a href="https://sergiogg.itch.io/2d-plattform-game-prototype">2D Plattform Game Prototype by SergioGG</a></iframe>
 
