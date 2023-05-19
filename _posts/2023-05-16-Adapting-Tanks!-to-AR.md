@@ -40,8 +40,8 @@ Some inputs have been added to work on Android mobiles. We will use them to move
 
 Here are some screenshots:
 
-<img src="/img/posts/Adapting-Tanks!-to-AR/screenshot1AR.JPG" alt="img" class="responsive-img" width="750" height="600"/>
+<img src="/img/posts/Adapting-Tanks!-to-AR/screenshot1AR.jpg" alt="img" class="responsive-img" width="750" height="600"/>
 
-<img src="/img/posts/Adapting-Tanks!-to-AR/screenshot2AR.JPG" alt="img" class="responsive-img" width="750" height="600"/>
+<img src="/img/posts/Adapting-Tanks!-to-AR/screenshot2AR.jpg" alt="img" class="responsive-img" width="750" height="600"/>
 
-<img src="/img/posts/Adapting-Tanks!-to-AR/screenshot3AR.JPG" alt="img" class="responsive-img" width="750" height="600"/>
+<img src="/img/posts/Adapting-Tanks!-to-AR/screenshot3AR.jpg" alt="img" class="responsive-img" width="750" height="600"/>
