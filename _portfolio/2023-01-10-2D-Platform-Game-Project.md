@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "2D Platform Game Project"
-subtitle: "My 2D Platform Game"
+subtitle: "Game Prototype"
 date: 2023-01-10 00:00:00 -0400
 background: '/img/portfolio/2DGamePlattformProject/2D-Game-Platform-Project.JPG'
 icon: '/gif/2D-Platform-Game/RobotPlayer.gif'
@@ -9,30 +9,20 @@ icon: '/gif/2D-Platform-Game/RobotPlayer.gif'
 
 # About the game
 
-It's an action and platform game based on the [Megaman](https://es.wikipedia.org/wiki/Mega_Man) series. We play as a robot trying to escape from a factory and travel through space in a stage surrounded with different platforms and enemies to defeat.
+This is a prototype of a 2D platform and action videogame where we will control a robot in a stage surrounded by enemies and other elements to interact with.
 
 <img src="/gif/2D-Platform-Game/RobotPlayer.gif" alt="img" class="responsive-gif" width="192" height="192"/>
 
 ___
 
-# Controls
-
-- Use the A and D keys to move around the stage.
-- Use left mouse button to shoot.
-- Use the space bar to jump.
-- Use the W key to use the Door and teleport to another location.
-- And some events can be triggered using the E key.
-
-___
-
 # Game mechanics
 
-Here I will talk about each of the elements of the game and how they work.
+Here we will talk about each of the elements of the game and how they work.
 
 ## Energy bar
 
 This bar indicates more than the life of the robot, its energy.
-In addition to the blows of the enemies, the shots and other actions will take away life.
+In addition to enemy attacks, shooting will also reduce our energy.
 
 <img src="/gif/2D-Platform-Game/energyBar.gif" alt="img" class="responsive-img" width="600" height="400"/>
 
@@ -62,7 +52,7 @@ These jumpers will help us to reach high areas of the game, jumping on them will
 
 During the game we will see closed doors, to open them we will need to find a switch of the same color that opens it. 
 
-When we press the E key on a switch, it will trigger an event that will open the door.
+When we press the E key on a switch, it will trigger an event that opens the door.
 
 <img src="/gif/2D-Platform-Game/switchDoorEvent.gif" alt="img" class="responsive-img" width="600" height="400"/>
 
@@ -86,27 +76,36 @@ Using the E key when we are close to these grip points will create a link with o
 
 <img src="/gif/2D-Platform-Game/grapplingHook.gif" alt="img" class="responsive-img" width="600" height="400"/>
 
+
 ___
 
 # Other game features
 
 ## Parallax Background
 
-To give more depth to the background of the stage I have implemented.
-Each layer moves relative to the camera movement at a different speed.
+To add more depth to the background, a Parallax Background has been implemented with several layers that move relative to the camera movement at different speeds.
 
 <img src="/gif/2D-Platform-Game/parallaxBackground.gif" alt="img" class="responsive-img" width="600" height="400"/>
 
 ## Projectile pooling
 
 To avoid slowing down the game, a pooling technique has been implemented for the robot's projectiles.
+The game will create more instances of the bullet on demand.
 
 <img src="/gif/2D-Platform-Game/projectilePooling.gif" alt="img" class="responsive-img" width="600" height="400"/>
 
 
 ___
 
-# Try it out on Itch.io
+### Try it out on Itch.io
 
-<iframe frameborder="0" src="https://itch.io/embed/1951219?border_width=3&amp;bg_color=afbfff&amp;fg_color=880e4f&amp;link_color=f4511e&amp;border_color=6a1b9a" width="556" height="171"><a href="https://sergiogg.itch.io/2d-plattform-game-prototype">2D Plattform Game Prototype by SergioGG</a></iframe>
 
+<iframe frameborder="0" class="responsive-gif" src="https://itch.io/embed/1951219?border_width=3&amp;bg_color=afbfff&amp;fg_color=880e4f&amp;link_color=f4511e&amp;border_color=6a1b9a" width="556" height="171"><a href="https://sergiogg.itch.io/2d-plattform-game-prototype">2D Plattform Game Prototype by SergioGG</a></iframe>
+
+___
+
+### Other links:
+
+- [Youtube Gameplay](https://youtu.be/UhSLsByS55E)
+
+- [Github Repository](https://github.com/SergioGG96/2D-Platform-Game-Project.git)
