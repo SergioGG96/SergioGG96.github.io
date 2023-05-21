@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Polar Project"
-subtitle: "My tactical RPG videogame project."
+subtitle: "Tactical RPG videogame prototype."
 date: 2023-01-1 10:00:00 -0400
 background: '/img/portfolio/polarProject.jpg'
 icon: '/gif/Polar-project-gifs/polarProjectGroup.gif'
@@ -65,6 +65,12 @@ The blue snowman will always try to attack the penguin with the least life. It u
 <img src="/gif/Polar-project-gifs/Blue_Snowman.gif" alt="img" class="responsive-gif" width="128" height="192"/>
 
 
-# Project status
+### Try it out on Itch.io
 
-This project was part of my TFG and for now I do not plan on continuing it.
+<iframe frameborder="0" src="https://itch.io/embed/2078661?linkback=true&amp;border_width=2&amp;bg_color=4d9be6&amp;fg_color=f5c5f7&amp;link_color=411971&amp;border_color=000038" width="554" height="169"><a href="https://sergiogg.itch.io/polar-project">Polar Project by SergioGG</a></iframe>
+
+___
+
+### Other links:
+
+- [Youtube Gameplay](https://youtu.be/Y6akCP2SRIo)
