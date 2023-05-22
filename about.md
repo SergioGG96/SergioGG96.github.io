@@ -50,4 +50,6 @@ ___
 
 - [LinkedIn](https://www.linkedin.com/in/sergio-gonz%C3%A1lez-guerra-b21570235/)
 
+- [GitHub](https://github.com/SergioGG96)
+
 - [Youtube](https://youtube.com/@sergiogonzalez4869)

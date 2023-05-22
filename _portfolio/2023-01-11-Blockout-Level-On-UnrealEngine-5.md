@@ -4,7 +4,7 @@ title: "Blockout Level On Unreal Engine 5"
 subtitle: "3D level design of a physics-based game"
 date: 2023-01-11 10:00:00 -0400
 background: '/img/portfolio/BlockoutLevelOnUnrealEngine5/blockout4.png'
-icon: '/img/portfolio/BlockoutLevelOnUnrealEngine5/blockoutIcon.png'
+icon: '/img/portfolio/BlockoutLevelOnUnrealEngine5/blockoutIcon.PNG'
 ---
 
 # What is this blockout level prototype about?
