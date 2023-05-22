@@ -23,7 +23,6 @@ ___
 - Java
 - HTML, CSS, JavaScript
 - C#
-- 
 
 #### Software Tools
 
