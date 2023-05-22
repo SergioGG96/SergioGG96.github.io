@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Polar Project"
-subtitle: "Tactical RPG videogame prototype."
+subtitle: "Tactical RPG videogame prototype"
 date: 2023-01-1 10:00:00 -0400
 background: '/img/portfolio/polarProject.jpg'
 icon: '/gif/Polar-project-gifs/polarProjectGroup.gif'
@@ -9,7 +9,7 @@ icon: '/gif/Polar-project-gifs/polarProjectGroup.gif'
 
 # What is Polar Project
 
-Polar Project is a prototype of a turn-based RPG strategy video game. Made with my own pixelart sprites using [Aseprite](https://www.aseprite.org/) and developed in [Unity](https://unity.com/es).
+Polar Project is a prototype of a turn-based RPG strategy video game. Made with my own pixelart sprites using [Aseprite](https://www.aseprite.org/) and developed in Unity.
 
 The characters of this video game consist of some penguins that are being attacked by a group of snowmen. The player will control them in order to clear the level.
 
