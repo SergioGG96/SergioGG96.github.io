@@ -3,7 +3,7 @@ layout: post
 title: "Nijikko Pets"
 subtitle: "Virtual Pet Game Project"
 date: 2023-01-1 09:00:00 -0400
-background: '/img/portfolio/NijikkoPets/NijikkoPets.PNG'
+background: '/img/portfolio/NijikkoPets/NijikkoPets.png'
 icon: '/gif/Nijikko-Pets/NijjikkoPetsPortfolioGIF.gif'
 ---
 
