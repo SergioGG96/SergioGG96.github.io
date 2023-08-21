@@ -3,7 +3,7 @@ layout: post
 title: "Nijikko Pets"
 subtitle: "Virtual Pet Game Project"
 date: 2023-01-1 09:00:00 -0400
-background: '/img/portfolio/polarProject.jpg'
+background: '/img/portfolio/NijikkoPets/NijikkoPets.PNG'
 icon: '/gif/Nijikko-Pets/NijjikkoPetsPortfolioGIF.gif'
 ---
 
@@ -73,8 +73,8 @@ You will receive a new egg to start over!
 
 [comment]: <> ### Try it out on Itch.io
 
-[comment]: <> ___
+___
  
-[comment]: <>### Other Links:
+### Other Links:
 
-
+- [Youtube Gameplay](https://youtu.be/UYke-HpqkDE)
