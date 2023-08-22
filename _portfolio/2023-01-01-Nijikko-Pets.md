@@ -69,9 +69,11 @@ The pet will abandon us if its life bar reaches 0 or if a certain time passes wh
 
 You will receive a new egg to start over!
 
-[comment]: <> ___
+___
 
-[comment]: <> ### Try it out on Itch.io
+Try it out on Itch.io
+
+<iframe frameborder="0" src="https://itch.io/embed/2229194?border_width=3&amp;bg_color=2f0771&amp;fg_color=ffe79b&amp;link_color=dd58d6&amp;border_color=dd58d6" width="556" height="171"><a href="https://sergiogg.itch.io/nijikko-pets">Nijikko Pets by SergioGG</a></iframe>
 
 ___
  
